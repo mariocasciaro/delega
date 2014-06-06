@@ -1,7 +1,7 @@
 {
   "name": "delega",
   "description": "Concise creation of delegate methods for your classes/objects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Mario Casciaro"
   },
